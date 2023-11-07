@@ -7,15 +7,27 @@ Riwayat kredit, yang mencakup jumlah rekening terbuka, jumlah total utang, riway
 
 ## Dataset
 `income` : Income of the user
+
 `age` : Age of the user
+
 `experience` : Professional experience of the user in years
+
 `profession` : Profession
+
 `married` : Whether married or single
+
 `house ownership` : Owned or rented or neither
+
 `car ownership` : Does the person own a car
+
 `risk flag` : Defaulted on a loan
+
 `current job years` : Years of experience in the current job
+
 `current house years` : Number of years in the current residence
+
 `city` : City of residence
+
 `state` : State of residence
+
 
