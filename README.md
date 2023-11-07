@@ -30,4 +30,15 @@ Riwayat kredit, yang mencakup jumlah rekening terbuka, jumlah total utang, riway
 
 `state` : State of residence
 
+## Implementation Plan
+![](workflow-credit-score.png)
+
+## Referebces
+## References
+Dataset : https://www.kaggle.com/datasets/lavish619/consumer-loan-product-defaulters-dataset
+
+Report : https://medium.com/@septiawulandaris11/credit-score-modeling-9f5767fe119e
+
+
+
 
