@@ -33,7 +33,6 @@ Riwayat kredit, yang mencakup jumlah rekening terbuka, jumlah total utang, riway
 ## Implementation Plan
 ![](workflow-credit-score.png)
 
-## Referebces
 ## References
 Dataset : https://www.kaggle.com/datasets/lavish619/consumer-loan-product-defaulters-dataset
 
